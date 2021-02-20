@@ -1,0 +1,10 @@
+name: DarkoniaItems
+author: Cozca
+version: 1.0.0
+main: fr.arthursrv.darkonia.Main
+commands:
+   citem:
+      description: description de la commande
+   ctime:
+      description: description de la commande
+      

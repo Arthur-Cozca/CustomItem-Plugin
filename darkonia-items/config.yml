@@ -1,0 +1,77 @@
+tpbow:
+  name: '&6PortalBow'
+  lore: 'Un lore'
+  glow: true
+  cooldown: 20
+
+epeehead:
+  name: '&6Faucheur de tête'
+  lore: 'UN lore'
+  type: 'diamant'
+  glow: true
+  chance: 30
+
+epeedeath:
+  name: '&6EpeeDeLaMort'
+  lore: 'UN lore'
+  type: 'diamant'
+  glow: true
+  
+
+xppioche:
+  name: '&6XPPIOCHE'
+  lore: 'UN lore'
+  type: 'diamant'
+  glow: true
+  chance: 30
+  xp: 50
+
+arcdeath:
+  name: '&eArcdelaMuerte'
+  lore: 'Ceci est un lroe'
+  glow: true
+
+moneysword:
+  name: '&4EpeeVoleuse'
+  lore: 'Je vole des pieces niark niark'
+  type: fer
+  montant: 50
+  chance: 40
+  glow: true
+
+piochemoney:
+  name: '&4PiocheMoney'
+  lore: 'Tu gagnes de l'argent en cassant des blocs'
+  type: diamant
+  montant: 50
+  chance: 40
+  glow: true
+
+epeeitem:
+  name: '&4PiocheMoney'
+  lore: 'Si tu as de la chance je change l'item dans la main de ton ennemie'
+  type: diamant
+  chance: 40
+  glow: true
+
+piochekey:
+  name: '&4PiocheKey'
+  lore: 'Si tu as de la chance je change l'item dans la main de ton ennemie'
+  type: diamant
+  chance: 40
+  glow: true
+
+
+piochecuit:
+  name: '&4PiocheCuit'
+  lore: 'Si tu as de la chance je change l'item dans la main de ton ennemie'
+  type: diamant
+  glow: true
+
+shard:
+  name: 'Key Shard'
+  lore: 'Echange cette key shard avec un pnj'
+  
+  
+  
+ 
